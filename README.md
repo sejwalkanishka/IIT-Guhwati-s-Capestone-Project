@@ -31,5 +31,5 @@ flowchart TD
 --
 
 ## Documantation
-1.- * source code file =  Kanishka capstone.ipynb 
-2.- * output (CSV file) = price_df_full.csv 
+ * 1.-  source code file =  Kanishka capstone.ipynb 
+*  2.-  output (CSV file) = price_df_full.csv 
