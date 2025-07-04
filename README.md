@@ -3,6 +3,7 @@ It contains all the projects, and Hackathons which I have completed during the I
 * Open the file in Google Colab (https://colab.research.google.com/drive/1u0dl6-B94BgCdGzWdrProuEg1GPzsPwj#scrollTo=L0l6wC6KBBrM)
 # Capstone Project – Summer Analytics 2025
 # Hosted by: Consulting & Analytics Club × Pathway, IIT Guwahati
+# Dynamic Pricing for Urban Parking Lots
 # Overview
 Urban parking is a high-demand, limited resource. Static pricing causes overcrowding or underutilization.
 This project simulates a real-time dynamic pricing system using occupancy, queue length, traffic, vehicle type, and competitor pricing.
